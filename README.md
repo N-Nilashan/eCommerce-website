@@ -8,3 +8,10 @@ This eCommerce webpage, crafted with HTML and CSS, delivers a seamless user expe
 
 The primary challenge encountered in this project was establishing seamless navigation between the three main pages—home, contact, and about. Overcoming this obstacle involved gaining a deeper understanding of HTML hyperlinks and ensuring proper file structuring for interconnected pages. Through this experience, I strengthened my skills in linking and connecting pages within a website, contributing to a more cohesive user experience.
 
+## Technologies used
+
+HTML and CSS
+
+## Future improvements
+
+As part of future enhancements, one exciting avenue to explore is the integration of online purchasing functionality. This could involve implementing secure payment gateways, expanding product listings, and refining the checkout process. By incorporating online purchasing capabilities, the aim is to transform this project into a fully functional and user-friendly eCommerce platform, providing a holistic and seamless shopping experience for users.
